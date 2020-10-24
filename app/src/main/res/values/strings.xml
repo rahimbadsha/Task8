@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task8</string>
+    <string name="author_label">Author</string>
+    <string name="price_label">Price</string>
+
+    <string name="price_format">%d TK</string>
+    <string name="book_title">Title</string>
+
+</resources>
